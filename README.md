@@ -4,7 +4,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 - - -
 
-* Used the provided schema to create tables in your RDS database. 
+* Used the provided schema in the resources folder to create tables in your RDS database. 
 
 * Created two separate Google Colab notebooks and **extract** two datasets from the list **Beauty and Shoes** at [review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). Put each dataset into its own notebook.
 
