@@ -1,5 +1,5 @@
 ## Background
-jh
+j
 Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available. They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. We performed the ETL process completely in the cloud and upload a DataFrame to an RDS instance. The second goal waS to use PySpark or SQL to perform a statistical analysis of selected data.
 
 - - -
